@@ -1,0 +1,20 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+section {
+    display:flex
+    justify-content center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: 100vh;
+    background: #173c78;
+}
+.bowl {
+    position: relative;
+    width:300px;
+    height:300px;
+    background: rgba(red, green, blue, alpha)
+}
